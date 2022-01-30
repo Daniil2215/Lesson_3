@@ -1,0 +1,44 @@
+@import "null.css";
+
+
+.main_block_one_DIV_span{
+	color: aqua;
+}
+
+#HEADER{
+	color: blueviolet;
+}
+
+div.main_block_one_MAIN{
+	color: brown;
+}
+
+.footer{
+	color: chartreuse;
+}
+
+.footer.nav{
+	color: coral;
+}
+
+.markspan_span, .markspan_span_two{
+	color: darkgoldenrod;
+}
+
+
+[class*="_three"]{
+	color: darkolivegreen;
+}
+
+.main_block_two_P > p{
+	color: deeppink;
+}
+
+.ulolonetwo + p{
+
+	color: violet ;
+}
+
+.mainatwo ~ p{
+color: yellowgreen;
+}
